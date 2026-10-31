@@ -138,6 +138,7 @@ This project is pre-configured for seamless deployment to **Render** (`render.ya
 - The SQLite command-line tool was unavailable. Installed SQLite tools and verified the `sqlite3` command.
 - Express was missing from the project dependencies. Installed it using `npm install express`.
 - Render deployment requires dynamic port binding: updated server to listen on `process.env.PORT || 3000`.
+- Render Linux GLIBC mismatch with prebuilt sqlite3 binaries: added `"postinstall": "npm rebuild sqlite3 --build-from-source"` to ensure native SQLite binaries are compiled against Render's system libraries.
 - Ensured SQLite database and table auto-initialization so deployment on containerized platforms (like Render) runs smoothly without manual SQL setup.
 
 ## Notes
