@@ -1,6 +1,6 @@
 {
   "engines": {
-    "node": "22.x"
+    "node": ">=18.0.0"
   },
   "name": "lab-02-sqlite-crud",
   "version": "1.0.0",
