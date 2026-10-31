@@ -1,11 +1,11 @@
 # Lab 2: SQLite database and CRUD routes
 
-**Name:** Latchipatruni Charan Teja  
-**Registration Number:** 252U1R8045  
+**Name:** P.Sai Kumar Reddy   
+**Registration Number:** 252U1R8075  
 **Class:** B.Tech CSE(QE) – 2B  
 **Section:** S-13 204
 
-**Deployed Link:** https://backend-development-fundamentals-1-fzeu.onrender.com
+**Deployed Link:** 
 
 ## Objective
 
