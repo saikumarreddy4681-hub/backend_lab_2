@@ -110,23 +110,23 @@ This project is pre-configured for seamless deployment to **Render** (`render.ya
 
 ### 1. Get all books
 
-![GET all books](screenshots/get-all-books.png)
+
 
 ### 2. Get a book by ID
 
-![GET book by ID](screenshots/get-book-by-id.png)
+
 
 ### 3. Add a book
 
-![POST add a book](screenshots/post-book.png)
+
 
 ### 4. Update a book
 
-![PUT update a book](screenshots/put-book.png)
+
 
 ### 5. Delete a book
 
-![DELETE a book](screenshots/delete-book.png)
+
 
 ### 6. SQLite database records
 
